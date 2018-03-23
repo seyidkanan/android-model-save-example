@@ -1,2 +1,3 @@
 # android-model-save-example
-In Android application save model with SharedPreferences
+
+Model saving methods in android application.
